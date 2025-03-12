@@ -2,7 +2,7 @@ from Oprations.The_Functions import MyOprations
 from Tools.Base_Tools import BaseTools
 from Tools.Sub_Tools import SubTools
 from colorama import init, Fore, Back, Style
-
+#hfhgfhgfhgf
 #  تعداد دفعات اجرای برنامه با یک بار باز کردن
 oprationCount = 0
 #برای اینکه بدونیم کدوم تابع اجرا شده 
